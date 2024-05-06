@@ -743,6 +743,10 @@ video {
   padding: 1.5rem;
 }
 
+.p-5 {
+  padding: 1.25rem;
+}
+
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -851,6 +855,22 @@ video {
 
   .md\:h-96 {
     height: 24rem;
+  }
+
+  .md\:h-\[400px\] {
+    height: 400px;
+  }
+
+  .md\:h-\[399px\] {
+    height: 399px;
+  }
+
+  .md\:h-\[398px\] {
+    height: 398px;
+  }
+
+  .md\:h-\[397px\] {
+    height: 397px;
   }
 
   .md\:max-w-\[260px\] {
